@@ -26,7 +26,7 @@ var  person = {
   project: [
     {
       name: "Responsive Website Design ",
-      projectlevel: "Finished",
+      projectLevel: "Finished",
       website: "https://corporacompany.000webhostapp.com",
       summary: "Lanuched responsive website to present company webpage using HTML, CSS and Boostrap to presentation and layout. The, Jquery is used to respond when the user clicks or does mouseover in any division it will give some illusion to be there. There are logo, constact, services, design layout, members details, reviews modulus is presented.", 
       Technology: ["HTML","CSS","Bootstrap","Jquery"],
